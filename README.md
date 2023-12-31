@@ -1,2 +1,3 @@
 # Coursera-Course
-Learning exercies
+##Learning exercises
+Just applying a lesson
